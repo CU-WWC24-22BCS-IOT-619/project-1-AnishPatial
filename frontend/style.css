@@ -1,0 +1,36 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4fdf5;
+}
+
+.navbar-custom {
+  background-color: #2e7d32;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .nav-link {
+  color: #fff;
+}
+
+.hero img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.upload-section {
+  margin-top: 50px;
+}
+
+.result-section {
+  margin-top: 50px;
+}
+
+.result-content {
+  background-color: #d4edda;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.result-content p {
+  font-size: 1.2rem;
+  color: #155724;
+}
